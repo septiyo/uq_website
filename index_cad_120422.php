@@ -40,10 +40,10 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
-
+<!-- 
 <script type="text/javascript">
   window.open("sosmed.php", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=450,left=450,width=550,height=500");
-</script>
+</script> -->
 
 </head>
 
@@ -54,7 +54,7 @@
     <div class="container d-flex align-items-center">
 
       <!-- <h1 class="logo me-auto"><a href="index.html">PESANTREN UMMUL QURO</a></h1> -->
-      <h1 class="logo me-auto"><a href="index.php"><?php include "judul.php";?></a></h1>
+      <!--h1 class="logo me-auto"--><a href="index.php"><?php include "judul.php";?><!-- <img src='assets/img/B8.png' alt='' width='500' height='500' class='img-fluid'>" --></a><!--/h1-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -76,26 +76,26 @@
   </header><!-- End Header -->
 
 
-<div class="container">
+
       <div class="row">
         
-        <div class="col-6">
-            
+        <div class="col-12">
+            <?php include "slider_home.php";?>
 
 
 
         </div>
       </div>
-</div>
+
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex justify-content-center align-items-center">
+  <!-- <section id="hero" class="d-flex justify-content-center align-items-center">
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
       <h1>Lembaga Kajian Islam, Untuk Generasi Masa Depan Bangsa</h1>
-      <!-- <h2>Kami ......</h2> -->
+     
       <a href="menu.php?IDD=kajian" class="btn-get-started">Cek Kajian</a>
     </div>
-  </section><!-- End Hero -->
+  </section> --><!-- End Hero -->
 
   <main id="main">
 
@@ -104,83 +104,66 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <!-- <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-          </div> -->
-          <!-- <div class="row">
-            <div class="col-8">col-8</div>
-            <div class="col-4"><img src="assets/img/about.jpg" class="img-fluid" alt=""></div>
-          </div> -->
+     
           <div class="col-7">
           <!--div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content"-->
-          <img src='assets/img/logo-uq.png' alt='' class='img-fluid' width='100' height='100'>
-            <h3>Sejarah Singkat</h3>
+          <!-- <img src='assets/img/logo-uq.png' alt='' class='img-fluid' width='100' height='100'> -->
+            <h3>Sejarah Ummul Quroo</h3>
             <p class="fst-italic text-justify" style="text-align:justify">
-            Pondok pesantren Ummul Quroo didirikan pada tahun 2000 di jalan Semolowaru no. 110 Surabaya. Diasuh oleh K.H Drs. Choiruddin, M.Ag. 
-            Beliau berasal dari Tulugagung. 
-            Beliau adalah murid dari Kiai Ja’far Abdul Hamid Pulosari Surabaya. 
-            Beliau juga menimba ilmu agama di Arab Saudi. Beliau anggota MUI kota Surabaya.
+                Pondok pesantren Ummul Quroo didirikan pada tahun 2000 di jalan Semolowaru no. 110 Surabaya. Diasuh oleh K.H Drs. Choiruddin, M.Ag. Beliau berasal dari Tulungagung. Beliau adalah murid dari Kiai Ja’far Abdul Hamid Pulosari Surabaya. Beliau juga menimba ilmu agama di Arab Saudi. Beliau anggota MUI kota Surabaya. Saat pondok awal didirikan, kajian terbatas pembelajaran ilmu alat dan kajian Ahad untuk jama’ah. Seiring perkembangan waktu, gedung pondok mengalami perluasan, sehingga layak untuk diadakannya pendidikan santri muqim dan santri program PESAD. Beberapa tahun setelahnya, jamaah dan santri bertambah banyak dan kondisi bangunan yang ada di Semolowaru 110 menjadi padat. Pengasuh beserta jajaran tim pengembang mengambil inisiatif untuk memperluas kawasan pondok pesantren Ummul Quroo dengan membangun gedung pondok baru di jalan Mastrip no. 77 – 79. Lokasi pembangunan ini sangat luas. Ada 6 lantai. Diharapkan mampu menampung jamaah dan santri yang jumlahnya terus bertambah seiring waktu.
+
+
+
+         
             </p>
-            <p style="text-align:justify">
-            Saat pondok awal didirikan, kajian terbatas pembelajaran  ilmu alat dan kajian Ahad untuk jama’ah.
-             Seiring perkembangan waktu, gedung pondok mengalami perluasan, 
-            sehingga layak untuk diadakannya pendidikan santri muqim dan santri program PESAD.
-          </p>
             
-             <div class="img-responsive">
+           <!--   <div class="img-responsive">
                  <img src="assets/img/Picture1.png" width="550" height="300"  class="rounded float-left" alt="">
-             </div>
+             </div> -->
             
 
           <!-- </div> -->
 
-          </div>
-          <div class="col-4" data-aos="fade-right" data-aos-delay="100">
-          <div class="img-responsive">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-          </div>
-          </div>
-          <div class="row">
-            <div class="col-12"></div>
-          </div>
-          <div class="col-12">
-          <div class="accordion" id="accordionExample">
-            <div class="accordion-item"> 
-            <h2 class="accordion-header" id="headingOne">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  Ummur Quro
-                </button>
-            </h2>  
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-              <div class="accordion-body"> 
-              <!-- <div class="text-justify"> -->
-           <p class ="text-justify" style="text-align:justify">Kata <b>Ummul Quroo</b> yang diambil dari Bahasa Arab bermakna <b>Ibukota</b>, memiliki pengertian bahwa 
-           pondok pesantren ini diharapkan menjadi pusat ilmu pengetahuan Islam, 
-           khususnya ilmu-ilmu alat yang menjadi dasar di dalam menafsirkan Al-Qur’an dan Al-Hadits yang benar. 
-           Jama’ah diharapkan bisa menjadi pendamai umat bukan menjadi sosok yang membuat keruh keadaan terutama dalam hal perbedaan dalam memahami hukum Islam. Jama’ah Ummul Quroo harus bisa menjelaskan dengan benar dan baik jika ada perbedaan pendapat agar didapatkan satu kesepahaman bersama sehingga keadaan menjadi tenang.
-Logo dibuat berbentuk lingkaran bermakna mengikat, memiliki pengertian bahwa orang islam harus 
-rukun dengan siapapun itu tanpa memandang perbedaan. Rukun diikat dengan kalimat tauhid  
-“Laa Ilaha illallah Muhammadarrosulullah”. Tidak hanya rukun dengan sesama umat muslim setanah air namun juga 
-dengan sesama muslim seluruh dunia. Tidak hanya rukun sesama muslim namun juga dengan orang-orang kafir harus 
-bersikap baik. Saling menghormati, menghargai dan toleransi tanpa harus mencederai aqidah keimanan dan syariat Islam.
- Dan khususnya untuk semua stake holder (pengasuh, pengajar, santri, walisantri) harus rukun damai sentosa. 
-Tulisan Ummul Quroo berwarna hijau terinspirasi dari pakaian penduduk surga berwarna hijau. Dan secara luas bermakna kesuburan tanah Indonesia yang gemah ripah loh jinawi artinya santri dan jamaah ummul quroo tetap berpartisipasi dalam menjaga Indonesia dari cengkeraman para penjajah yang selalu berusaha merampok hasil kesuburan Indonesia. Juga melambangkan sifat keadilan, artinya santri dan jamaah ummul quroo tetap berprinsip pada keadilan, dimana keadilan bukan berarti merata, tetapi sesuai dengan kondisinya.
-Warna dasar putih mengandung makna kebenaran (bersih). 
-Maksudnya adalah bahwa dalam setiap bertutur kata dan berperilaku kita harus menjunjung tinggi kebenaran dan kejujuran. 
-Sesuatu benar adalah benar. Sesuatu yang boleh adalah boleh. Sesuatu yang haram adalah haram.
- Tidak boleh yang haram dikatakan boleh, yang benar dikatakan salah, yang salah dikatakan benar. 
- Harus benar-benar jelas tidak boleh abu-abu (tidak jelas). Dan harus berani menegakkan amar ma’ruf nahi munkar. 
- Jika tidak melakukan itu, sebuah kesalahan besar sebagai seorang muslim yamg beriman. </p>
-<!-- </div> -->
-      
+          </div><!--end col7-->
+          <div class="col-5" data-aos="fade-right" data-aos-delay="100">
+              <div class="img-responsive">
+                <img src="assets/img/about.jpg" class="img-fluid img-thumbnail" alt="">
               </div>
-            </div>    
+          </div>
+
+        </div><!--row-->
+        
+      <div class="container">
+          <div class="row">
+            <div class="col-12">
+                <p style="text-align:justify">
+                  <b>Program Pendidikan Ummul Quroo</b><br><br>
+Pada umumnya di pondok-pondok waktu pembelajaran ilmu Nahwu sampai beberapa tahap dan lama namun di Ponpes Ummul Quroo hanya 4 tahun proses pendidikan dan masa bakti pengabdian 1 tahun. Lebih cepat dalam rangka percepatan proses pendidikan dengan mempelajari mukhtashor Nahwu, Mutammimah dan Alfiyah. Dengan ketiga ilmu ini in syaa Allah sudah cukup sehingga para santri tidak terlalu lama di pondok dan segera bisa mengabdi di masyarakat.<br><br>
+Ummul Quroo lebih mengedepankan dan memperbanyak ilmu alatnya karena ilmu alat ini penting sebagai alat untuk memasak (memahami isi kitab yang dipelajari). Diantaranya ilmu Ushul, Bayan, Ma’ani, Musholatil Hadits, Badek dan Balaghoh.<br><br>
+Untuk materi-materi ilmu agama hanya menggunakan beberapa kitab, diantaranya adalah kitab Taqrib, Fat’ul Muin, Tafsir Ibnu Abbas dan Jalalain, Hadits Riyadhus Shalihin dan Bulughul Marom serta kitab Al-Ahkama Ash-Shulthoniyah yang mempelajari tentang tata cara hidup bermasyarakat dan bernegara<br>
+Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada masyarakat. Manakala para santri bisa mempraktekkan ilmunya maka tingkat kepemahaman keilmuannya bisa lebih tinggi dibanding mereka hanya belajar. Sehingga dengan mengamalkan ilmunya pada masyarakat, mereka bisa tetap mengingat semua ilmu yang sudah dipelajari selama mondok.
+
+                </p>
+
             </div>
-         </div>  
+            <div class="col-4">
+              <img src="assets/img/B3.jpg" height="200" width="300" class="img-fluid img-thumbnail">
+            </div>
+            <div class="col-4">
+              <img src="assets/img/B4.png" height="200" width="300"  class="img-fluid img-thumbnail">
+            </div>
+             <div class="col-4">
+              <img src="assets/img/B5.jpg" height="200" width="300"  class="img-fluid img-thumbnail">
+            </div>
+          </div><!--endrow-->
+       
+          </div><!--endcontainer-->
+        </div>
+<!--          </div>  
      </div> 
         </div>
 
-      </div>
+      </div> -->
     </section><!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->

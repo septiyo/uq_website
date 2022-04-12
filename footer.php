@@ -3,6 +3,11 @@
 <div class="footer-top">
   <div class="container">
     <div class="row">
+      <div class="col-4">
+        <h1>Pusat Pelayanan</h1>
+      </div>
+    </div>
+    <div class="row">
 
       <div class="col-lg-6 col-md-6 footer-contact">
         <h3>PESANTREN UMMUL QURO</h3>

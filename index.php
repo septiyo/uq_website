@@ -53,27 +53,26 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <!-- <h1 class="logo me-auto"><a href="index.html">PESANTREN UMMUL QURO</a></h1> -->
-      <!--h1 class="logo me-auto"--><a href="index.php"><?php include "judul.php";?><!-- <img src='assets/img/B8.png' alt='' width='500' height='500' class='img-fluid'>" --></a><!--/h1-->
+      <!-- <h1 class="logo me-auto"> --><?php include "judul.php";?><a href="index.html" class="logo me-auto"></a><!-- </h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
+
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <a href="#" class="fa fa-facebook"></a>
-          <?php include "menunya.php";?>
-                 
+
+        <?php include "menunya.php";?>
           
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-
       <!-- <a href="courses.html" class="get-started-btn">Get Started</a> -->
       <?php include "started.html";?>
 
-
     </div>
-  </header><!-- End Header -->
+  </header>
+
+<!-- End Header -->
 
 
 
@@ -166,6 +165,34 @@ Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada ma
       </div> -->
     </section><!-- End About Section -->
 
+
+<div class="container">
+        <div class="row">
+          <div class="col-3">
+          </div>
+          <div class="col-8">
+            <h1><p>Kitab Pembelajaran</p></h1>
+          </div>
+            <div class="col-2">
+          </div>
+        </div>
+
+    <div class="row">
+       <div class="col-2">
+       </div>
+      <div class="col-8">
+        <img src="assets/img/C1.jpg" class="img-fluid" height="800" width="600" >
+      </div>
+      <div class="col-2">
+      </div>
+
+    </div>
+</div>
+
+
+
+
+
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts section-bg">
       <div class="container">
@@ -173,13 +200,8 @@ Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada ma
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1" class="purecounter"></span>
             <p>Santri</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Courses</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
@@ -188,8 +210,13 @@ Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada ma
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
             <p>Pembimbing</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="22" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Pelajaran</p>
           </div>
 
         </div>
