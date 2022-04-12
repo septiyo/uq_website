@@ -54,7 +54,7 @@
     <div class="container d-flex align-items-center">
 
       <!-- <h1 class="logo me-auto"><a href="index.html">PESANTREN UMMUL QURO</a></h1> -->
-      <h1 class="logo me-auto"><a href="index.php"><?php include "judul.php";?></a></h1>
+      <!--h1 class="logo me-auto"--><a href="index.php"><?php include "judul.php";?><!-- <img src='assets/img/B8.png' alt='' width='500' height='500' class='img-fluid'>" --></a><!--/h1-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -127,7 +127,7 @@
           </div><!--end col7-->
           <div class="col-5" data-aos="fade-right" data-aos-delay="100">
               <div class="img-responsive">
-                <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                <img src="assets/img/about.jpg" class="img-fluid img-thumbnail" alt="">
               </div>
           </div>
 
@@ -147,23 +147,23 @@ Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada ma
 
             </div>
             <div class="col-4">
-              <img src="assets/img/B3.jpg" class="img-fluid">
+              <img src="assets/img/B3.jpg" height="200" width="300" class="img-fluid img-thumbnail">
             </div>
             <div class="col-4">
-              <img src="assets/img/B4.png" class="img-fluid">
+              <img src="assets/img/B4.png" height="200" width="300"  class="img-fluid img-thumbnail">
             </div>
-             <div class="col-4" data-aos="fade-right">
-              <img src="assets/img/B5.jpg" class="img-fluid">
+             <div class="col-4">
+              <img src="assets/img/B5.jpg" height="200" width="300"  class="img-fluid img-thumbnail">
             </div>
           </div><!--endrow-->
        
           </div><!--endcontainer-->
         </div>
-         </div>  
+<!--          </div>  
      </div> 
         </div>
 
-      </div>
+      </div> -->
     </section><!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->

@@ -1,6 +1,6 @@
 <?php
-  echo "PESANTREN UMMUL QURO";
-  //echo "<img src='assets/img/logo-uq.png' alt='' class='img-fluid' width='100' height='100'>";
+  //echo "UMMUL QUROO";
+  echo "<img src='assets/img/B8.png' alt='' width='200' height='200' class='img-fluid'>";
 
 ?>
 
