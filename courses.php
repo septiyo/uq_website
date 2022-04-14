@@ -42,7 +42,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html"><?php include "judul.php";?></a></h1>
+      <a href="index.html"><?php include "judul.php";?></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -97,357 +97,79 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
-        <div class="row">
-          <div class="col-6">
-             <div class=".img-responsive">
-                <img src="assets/img/siswa.png" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
 
-             </div><!--img-->
-
-
-          </div><!--end col-6-->
-       
-          <div class="col-6">
-             <p style="text-align:justify">
-             <b>Visi:</b><br>
-Terwujudnya Al ‘Ulama’ Waratsatul Anbiyaa’<br>
-
-<b>Misi:</b><br>
-1.Mendalami Tata Bahasa Arab (Qowaa’idul Lughah)<br>
-2.Mengetahui Syarat-syarat sebagai Seorang Mufassir<br>
-3.Meningkatkan Persatuan dan Kesatuan Ummat<br>
-<br>
-<b>Madzhab Pondok Pesantren Ummul Quroo:</b><br>
-Madzhab Pondok Pesantren Ummul Quroo adalah Ahlussunnah Wal Jamaa’ah
-             </p>
-
-          </div><!--col-6-->
-        </div><!--end row-->
-        <div class="row">
-          <div class="col-12">
-          <b>Dasar Pemikiran</b><br>
-<b>1.Al Qur’an</b><br>
-“Dan tidak sepatutnya orang-orang mu’min itu semuanya pergi ke medan perang,
- maka supaya (ada) berangkat dari setiap golongan di antara mereka untuk mendalami
-  agama mereka dan untuk memberi peringatan pada kaumnya,
-   apabila mereka telah Kembali pada kaum mereka, pasti mereka menjaga diri.” (At-Taubah: 122)<br>
-<b>2.Al Hadits</b><br>
-Dari Ibnu Abbas Radhiyallahu ‘anhuma dari Nabi Shallallahu ‘alaihi wasallam:
- “Sesungguhnya Nabi bersabda:
-  Barang siapa menafsirkan Al Qur’an dengan pendapatnya (sendiri)
-   maka bawalah dia pada tempat duduknya dari api neraka.” (HR. Ahmad, dan Tirmidzi berkata:
-    Hadits Hasan Sahih)<br>
-
-
-          </div>
-
-
-        </div>
-
-     
-
-      </div>
-    </section><!-- End About Section -->
-
-
-<!---->
-<div class="container" data-aos="fade-up">
-                <div class="row">
-                        <div class="col-12" style="text-align:center">
-                            <img src="assets/img/ahad.png" class="img-fluid"></img>
-                        </div><!--col4-->
-                </div><!--row--><br><br>
-
-    <div class="row justify-content-md-center">
+        <h1><p style="text-align: center;">PENDIDIKAN</p></h1><br><br>
+        <h2>Santri Muqim</h2>
+   <div class="row">
       <div class="col-12">
-        <p style="text-align:center"><b>Jadwal Kajian Pondok Pesantren Ummul Quroo</b></p>
-  <table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col">Hari</th>
-      <th scope="col">Pukul</th>
-      <th scope="col">Kitab</th>
-      <th scope="col">Ustadz Pengisi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Ahad</th>
-      <td >07.00 - 07.30</td>
-      <td>Riyaadhush Shaalihiin</td>
-      <td>Ustadz Dedy Ayatullah</td>
-    </tr>
-    <tr>
-      <th scope="row">Ahad</th>
-      <td>07.30 - 09.00</td>
-      <td>Tafsir Ibnu Abbas</td>
-      <td>Ustadz Drs. Choiruddin, M.Ag</td>
-    </tr>
-    <tr>
-      <th scope="row">Senin</th>
-      <td>06.30 – 07.00</td>
-      <td>‘Uquudul Jumaan Al-Mukhtashar</td>
-      <td>Ustadz Drs. Choiruddin, M.Ag.</td>
-    </tr>
-    <tr>
-      <th scope="row">Selasa</th>
-      <td>06.30 – 07.00</td>
-      <td>Tafsir Ibnu Abbas</td>
-      <td>Ustadz Drs. Choiruddin, M.Ag.</td>
-    </tr>
-    <tr>
-      <th scope="row">Selasa</th>
-      <td>15.30 – 17.00</td>
-      <td>Buluughul Maraam (Kajian Wanita)</td>
-      <td>Ustadzah Cholishoh</td>
-    </tr>
-    <tr>
-      <th scope="row">Rabu</th>
-      <td>06.30 – 07.00</td>
-      <td>Al-Asybah wan Nadhaair Al-Mukhtashar</td>
-      <td>Ustadz Dikky Syadqomulloh S.HI, MHES</td>
-    </tr>
-    <tr>
-      <th scope="row">Rabu</th>
-      <td>15.30 – 17.00</td>
-      <td>Tafsir Ibriz (Kajian Wanita)</td>
-      <td>Ustadzah Cholishoh</td>
-    </tr>
-    <tr>
-      <th scope="row">Kamis</th>
-      <td>06.30 – 07.00</td>
-      <td>‘Uquudul Jumaan Al-Mukhtashar</td>
-      <td>Ustadz Drs. Choiruddin, M.Ag.</td>
-    </tr>
-    <tr>
-      <th scope="row">Jumat</th>
-      <td>06.30 – 07.00</td>
-      <td>Al-Asybah wan Nadhaair Al-Mukhtashar</td>
-      <td>Ustadz Dikky Syadqomulloh S.HI, MHES</td>
-    </tr>
-    <tr>
-      <th scope="row">Sabtu</th>
-      <td>07.00 – Ashar</td>
-      <td>Kegiatan PESAD</td>
-      <td>Madin Ummul Quroo</td>
-    </tr>
-  </tbody>
-</table>
+       Pondok Pesantren Ummul Quroo memiliki program pendidikan khusus untuk santri muqim. Sasaran calon santri adalah tingkat SMP dan SMA atau sederajat. Kegiatan pembelajaran santri muqim berlokasi di Pondok Pesantren Ummul Quroo Mastrip 77 – 79. 
 
 
       </div><!--col12-->
-      
 
-    </div><!--row-->
+
+    </div><!--row -->
+
+
+        <div class="row">
+          <!--gambar kiri besar-->
+          <div class="col-md-6">
+             <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+          </div><!--end col-6-->
+
+
+
+           <!--gambar kanan kecil-->
+          <div class="col-md-6">
+             <div class="row">
+              <div class="col-md-6">
+              <img src="assets/img/B4.png" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+           </div><!--end col-3-->
+
+             <div class="col-md-6">
+              <img src="assets/img/B4.png" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+             </div><!--end col-3-->
+             </div>
+
+
+             <br>
+
+           <!--gambar kanan kecil-->
+             <div class="row">
+              <div class="col-md-6">
+              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+           </div><!--end col-3-->
+
+             <div class="col-md-6">
+              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+             </div><!--end col-3-->
+             </div>
+          </div><!--end col-6-->
+           
+
+           <!--  <div class="col-md-3">
+              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+             </div> -->
+             <!--end col-3-->
+
+            <!-- <div class="col-md-3">
+              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+             </div> -->
+             <!--end col-3-->
+
+
+
+          </div><!--row-->
+
+ 
     
 </div><!--container-->
+<br>
 
-
-    <!-- ======= Counts Section ======= -->
-    <!-- <section id="counts" class="counts section-bg">
-      <div class="container">
-
-        <div class="row counters">
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Students</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Courses</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Events</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Trainers</p>
-          </div>
-
-        </div>
-
-      </div>
-    </section>  -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <!-- <section id="testimonials" class="testimonials">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>What are they saying</p>
-        </div>
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div>
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section>  
-
-  </main><!-- End #main -->
 
   <?php include "footer.php";?>
 
-  <!-- ======= Footer ======= -->
-  <!-- <footer id="footer">
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Mentor</h3>
-            <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container d-md-flex py-4">
-
-      <div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ 
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
-      </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-    </div>
-  </footer-->  
-
+ 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
