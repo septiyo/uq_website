@@ -3,10 +3,10 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <!--meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-<!--     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
 
     <title></title>
   </head>
@@ -17,18 +17,19 @@
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+   <!--  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li> -->
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 img-fluid" src="assets/img/B1.jpg" width="800" height="600" alt="First slide">
+      <img class="d-block w-100 img-fluid" src="assets/img/B1.jpeg"  alt="First slide">
     </div>
+    <!-- style="width: 1200px; height: 600px;"-->
     <div class="carousel-item">
-      <img class="d-block w-100 img-fluid" src="assets/img/B28.jpg" width="800" height="600" alt="Second slide">
+      <img class="d-block w-100 img-fluid" src="assets/img/B28.jpeg" alt="Second slide">
     </div>
-    <div class="carousel-item">
+  <!--   <div class="carousel-item">
       <img class="d-block w-100 img-fluid" src="assets/img/C1.jpg" width="800" height="600" alt="Third slide">
-    </div>
+    </div> -->
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -39,10 +40,6 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
-
 
 
 

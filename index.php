@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Ummul Quro</title>
+  <title>Ummul Quroo</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -19,7 +19,9 @@
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
@@ -53,7 +55,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <!-- <h1 class="logo me-auto"> --><?php include "judul.php";?><a href="index.html" class="logo me-auto"></a><!-- </h1> -->
+  <!-- <h1 class="logo me-auto"> --><?php include "judul.php";?><a href="index.html" class="logo me-auto"></a><!-- </h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -78,7 +80,7 @@
 
       <div class="row">
         
-        <div class="col-12">
+        <div class="col-10 mx-auto">
             <?php include "slider_home.php";?>
 
 
@@ -104,13 +106,16 @@
 
         <div class="row">
      
-          <div class="col-7">
+          <div class="col-6">
           <!--div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content"-->
           <!-- <img src='assets/img/logo-uq.png' alt='' class='img-fluid' width='100' height='100'> -->
             <h3>Sejarah Ummul Quroo</h3>
             <p class="fst-italic text-justify" style="text-align:justify">
-                Pondok pesantren Ummul Quroo didirikan pada tahun 2000 di jalan Semolowaru no. 110 Surabaya. Diasuh oleh K.H Drs. Choiruddin, M.Ag. Beliau berasal dari Tulungagung. Beliau adalah murid dari Kiai Ja’far Abdul Hamid Pulosari Surabaya. Beliau juga menimba ilmu agama di Arab Saudi. Beliau anggota MUI kota Surabaya. Saat pondok awal didirikan, kajian terbatas pembelajaran ilmu alat dan kajian Ahad untuk jama’ah. Seiring perkembangan waktu, gedung pondok mengalami perluasan, sehingga layak untuk diadakannya pendidikan santri muqim dan santri program PESAD. Beberapa tahun setelahnya, jamaah dan santri bertambah banyak dan kondisi bangunan yang ada di Semolowaru 110 menjadi padat. Pengasuh beserta jajaran tim pengembang mengambil inisiatif untuk memperluas kawasan pondok pesantren Ummul Quroo dengan membangun gedung pondok baru di jalan Mastrip no. 77 – 79. Lokasi pembangunan ini sangat luas. Ada 6 lantai. Diharapkan mampu menampung jamaah dan santri yang jumlahnya terus bertambah seiring waktu.
+                Pondok pesantren Ummul Quroo didirikan pada tahun 2000 di jalan Semolowaru no. 110 Surabaya. Diasuh oleh K.H Drs. Choiruddin, M.Ag. Beliau berasal dari Tulungagung. Beliau adalah murid dari Kiai Ja’far Abdul Hamid Pulosari Surabaya. Beliau juga menimba ilmu agama di Arab Saudi. <br>
 
+                Beliau anggota MUI kota Surabaya. Saat pondok awal didirikan, kajian terbatas pembelajaran ilmu alat dan kajian Ahad untuk jama’ah. Seiring perkembangan waktu, <br><a href='about.php'>Read More</a>
+
+    
 
 
          
@@ -124,9 +129,10 @@
           <!-- </div> -->
 
           </div><!--end col7-->
-          <div class="col-5" data-aos="fade-right" data-aos-delay="100">
+         <!--  <div class="col-7 float-right" data-aos="fade-right" data-aos-delay="100"> -->
+          <div class="col-5">
               <div class="img-responsive">
-                <img src="assets/img/about.jpg" class="img-fluid img-thumbnail" alt="">
+                <img src="assets/img/about.jpg" style="width: 370px; height: 500px; float: right;" class="img-fluid" alt="">
               </div>
           </div>
 
@@ -134,27 +140,76 @@
         
       <div class="container">
           <div class="row">
-            <div class="col-12">
+            <div class="col-4">
                 <p style="text-align:justify">
                   <b>Program Pendidikan Ummul Quroo</b><br><br>
-Pada umumnya di pondok-pondok waktu pembelajaran ilmu Nahwu sampai beberapa tahap dan lama namun di Ponpes Ummul Quroo hanya 4 tahun proses pendidikan dan masa bakti pengabdian 1 tahun. Lebih cepat dalam rangka percepatan proses pendidikan dengan mempelajari mukhtashor Nahwu, Mutammimah dan Alfiyah. Dengan ketiga ilmu ini in syaa Allah sudah cukup sehingga para santri tidak terlalu lama di pondok dan segera bisa mengabdi di masyarakat.<br><br>
-Ummul Quroo lebih mengedepankan dan memperbanyak ilmu alatnya karena ilmu alat ini penting sebagai alat untuk memasak (memahami isi kitab yang dipelajari). Diantaranya ilmu Ushul, Bayan, Ma’ani, Musholatil Hadits, Badek dan Balaghoh.<br><br>
-Untuk materi-materi ilmu agama hanya menggunakan beberapa kitab, diantaranya adalah kitab Taqrib, Fat’ul Muin, Tafsir Ibnu Abbas dan Jalalain, Hadits Riyadhus Shalihin dan Bulughul Marom serta kitab Al-Ahkama Ash-Shulthoniyah yang mempelajari tentang tata cara hidup bermasyarakat dan bernegara<br>
-Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada masyarakat. Manakala para santri bisa mempraktekkan ilmunya maka tingkat kepemahaman keilmuannya bisa lebih tinggi dibanding mereka hanya belajar. Sehingga dengan mengamalkan ilmunya pada masyarakat, mereka bisa tetap mengingat semua ilmu yang sudah dipelajari selama mondok.
+Pada umumnya di pondok-pondok waktu pembelajaran ilmu Nahwu sampai beberapa tahap dan lama namun di Ponpes Ummul Quroo hanya 4 tahun proses pendidikan dan masa bakti pengabdian 1 tahun. Lebih cepat dalam rangka percepatan proses pendidikan dengan mempelajari mukhtashor Nahwu, Mutammimah dan Alfiyah. Dengan ketiga ilmu ini in syaa Allah sudah cukup sehingga para santri tidak terlalu lama di pondok dan segera bisa mengabdi di masyarakat. <a href='readmore_1_index.php'>Read More</a><br><br>
 
                 </p>
 
             </div>
+<!--card-img-top-->
             <div class="col-4">
-              <img src="assets/img/B3.jpg" height="200" width="300" class="img-fluid img-thumbnail">
+                  <div class="card" style="width: 18rem;">
+                    <img class="img-fluid" src="assets/img/B3.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
             </div>
             <div class="col-4">
+                  <div class="card" style="width: 18rem;">
+                    <img class="img-fluid" src="assets/img/B4.png" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+           </div>
+         </div><!--endrow-->
+
+         <div class="row">
+             <div class="col-4">
+                  <div class="card" style="width: 18rem;">
+                    <img class="img-fluid" src="assets/img/B5.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+           </div>
+             <div class="col-4">
+                  <div class="card" style="width: 18rem;">
+                    <img class="img-fluid" src="assets/img/B3.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+           </div>
+             <div class="col-4">
+                  <div class="card" style="width: 18rem;">
+                    <img class="img-fluid" src="assets/img/B4.png" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+           </div>
+          <!--   <div class="col-4">
               <img src="assets/img/B4.png" height="200" width="300"  class="img-fluid img-thumbnail">
             </div>
              <div class="col-4">
               <img src="assets/img/B5.jpg" height="200" width="300"  class="img-fluid img-thumbnail">
-            </div>
+            </div> -->
           </div><!--endrow-->
+
        
           </div><!--endcontainer-->
         </div>
@@ -167,17 +222,9 @@ Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada ma
 
 
 <div class="container">
-        <div class="row">
-          <div class="col-3">
-          </div>
-          <div class="col-8">
-            <h1><p>Kitab Pembelajaran</p></h1>
-          </div>
-            <div class="col-2">
-          </div>
-        </div>
+ 
 
-    <div class="row">
+<!--     <div class="row">
        <div class="col-2">
        </div>
       <div class="col-8">
@@ -186,11 +233,23 @@ Harapannya, para santri yang sudah ngaji bisa segera mengamalkan ilmunya pada ma
       <div class="col-2">
       </div>
 
-    </div>
+    </div> -->
+<div class="row">
+  <div class="col-8 mx-auto">
+<div class="card" style="width: 50rem;">
+                    <img class="img-fluid" src="assets/img/C1.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Kitab Pembelajaran</h5>
+                      <p class="card-text">Penjelasan singkat.</p>
+                      <a href="#" class="btn btn-primary">Read More</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
 </div>
 
 
-
+               
 
 
     <!-- ======= Counts Section ======= -->

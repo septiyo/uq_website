@@ -10,7 +10,7 @@
     <div class="row">
 
       <div class="col-lg-6 col-md-6 footer-contact">
-        <h3>PESANTREN UMMUL QURO</h3>
+        <h3>PESANTREN UMMUL QUROO</h3>
         <p>
           
             Jl. Mastrip Warugunung No. 77-79 Surabaya  <br>
@@ -21,7 +21,7 @@
         </p>
       </div>
       <div class="col-lg-6 col-md-6 footer-contact">
-        <h3>PESANTREN UMMUL QURO II</h3>
+        <h3>PESANTREN UMMUL QUROO II</h3>
         <p>
           
         Jl. Semolowaru No. 110 Surabaya  <br>
