@@ -200,7 +200,7 @@
          </div><!--end col6-->
        </div><!--end row-->
      </div><!--container-->
-
+<br><br>
    <div class="container-md">
   <h2>Kajian Pekanan</h2>
       <div class="row">
@@ -242,6 +242,36 @@
       <div class="col-md-6">
         <a href="assets/img/B5.jpg"><img src="assets/img/B5.jpg" class="img-fluid" style="text-align: justify;"></a>
       </div>
+     </div>
+
+     <div class="row">
+        <div class="col-md-12">
+
+           <table class="table table-striped">
+                      <thead>
+                        <tr>
+                          <th scope="col">Hari</th>
+                          <th scope="col">Pukul</th>
+                          <th scope="col">Kitab</th>
+                          <th scope="col">Ustadz Pegisi</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <th scope="row">Ahad</th>
+                          <td>07.00 – 07.30</td>
+                          <td>Riyadhus Salihin</td>
+                          <td>Ustadz Dedy Ayatulloh</td>
+                        </tr>
+                        <tr>
+                          <th scope="row">Ahad</th>
+                          <td>07.30 – 09.00</td>
+                          <td>Tafsir Ibnu Abbas </td>
+                          <td>Ustadz Drs. Choiruddin, M.Ag.</td>
+                        </tr>
+                      </tbody>
+            </table>
+        </div>
      </div>
    
       </div><!--container-->

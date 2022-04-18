@@ -30,11 +30,15 @@ switch ($IDD) {
     case "berita":
          header("Location: berita.php");
          break;    
+    case "cek_kajian":
+         header("Location: cek_kajian.php");
+         break;    
+    
     
     default:
          header("Location: index.php");
   }
-
+cek_kajian
 
 
 ?>
