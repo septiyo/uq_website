@@ -114,7 +114,7 @@
         <div class="row">
           <!--gambar kiri besar-->
           <div class="col-md-6">
-             <a href="assets/img/B3.jpg"><img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a>
+             <a href="assets/img/B3.jpg"><img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;"></img></a>
           </div><!--end col-6-->
 
 
@@ -147,6 +147,7 @@
           </div><!--end col-6-->
 
           <br><br><br>
+     <div class="container-md">     
       <h2>Santri Pesad</h2>
    <div class="row">
       <div class="col-12">
@@ -170,11 +171,12 @@
           <div class="col-6">
              <div class="row">
                              <div class="col-md-6">
-                                    <img src="assets/img/B13.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300">
+                                    <a href="assets/img/B13.jpg"><img src="assets/img/B13.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></a>
+                                     <!-- <a href="assets/img/B9.jpg"><img src="assets/img/B9.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a> -->
                              </div>
 
                               <div class="col-md-6">
-                                   <img src="assets/img/B14.jpg" class="img-fluid">
+                                   <a href="assets/img/B14.jpg"><img src="assets/img/B14.jpg" class="img-fluid" style="text-align: justify;"></a>
                                </div>
 
               </div>
@@ -182,30 +184,54 @@
              <div class="row">
             
                              <div class="col-md-6">
-                                    <img src="assets/img/B15.jpg" class="img-fluid">
+                                 <a href="assets/img/B15.jpg"><img src="assets/img/B15.jpg" class="img-fluid" style="text-align: justify;"></a>
                              </div>
 
                               <div class="col-md-6">
-                                   <img src="assets/img/B16.jpg" class="img-fluid">
+                                   <a href="assets/img/B16.jpg"><img src="assets/img/B16.jpg" class="img-fluid" style="text-align: justify;"></a>
                                </div>
 
         
-             </div>       
-
-
-
-            </div>
+             </div><!--end row-->       
+            </div><!--end col6-->
          
            
-            <!--   <img src="assets/img/B3.jpg" class="img-fluid"> -->
+       
          </div><!--end col6-->
-
-
-
-
-
-
        </div><!--end row-->
+     </div><!--container-->
+
+     <div class="container-md">
+  <h2>Santri Mubes</h2>
+      <div class="row">
+        <div class="col-12">
+ Ponpes Ummul Quroo memiliki agenda tahunan yang bernama Musyawarah Besar (MUBES). Kegiatan ini awalnya dimaksudkan untuk mendiskusikan langkah-langkah penerapan ekonomi jama’ah Ummul Quroo yang independen. 
+
+        </div>
+     </div>
+
+     <div class="row">
+       <div class="col-md-6">
+        <div class="row">
+            <div class="col-md-6">
+              <img src="assets/img/ero.png" class="img-fluid" style="text-align: justify;">
+            </div>
+            <div class="col-md-6">
+              <img src="assets/img/ero.png" class="img-fluid" style="text-align: justify;">
+            </div>
+        </div>
+
+           <br>
+        <div class="row">
+          <div class="col-md-6">
+            <img src="assets/img/ero.png" class="img-fluid" style="text-align: justify;">
+          </div>
+           <div class="col-md-6">
+            <img src="assets/img/ero.png" class="img-fluid" style="text-align: justify;">
+          </div>
+        </div>
+
+       </div>
 
 
 
@@ -213,16 +239,21 @@
 
 
 
+      <div class="col-md-6">
+        <a href="assets/img/ero.png"><img src="assets/img/ero.png" class="img-fluid" style="text-align: justify;"></a>
+      </div>
+     </div>
 
 
 
-          </div><!--row-->
+
+  
 
  
     
 </div><!--container-->
 <br>
-
+<br>
 
   <?php include "footer.php";?>
 
