@@ -106,7 +106,7 @@
 
 
       </div><!--col12-->
-
+<br><br><br>
 
     </div><!--row -->
 
@@ -114,7 +114,7 @@
         <div class="row">
           <!--gambar kiri besar-->
           <div class="col-md-6">
-             <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+             <a href="assets/img/B3.jpg"><img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a>
           </div><!--end col-6-->
 
 
@@ -123,11 +123,11 @@
           <div class="col-md-6">
              <div class="row">
               <div class="col-md-6">
-              <img src="assets/img/B4.png" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+              <a href="assets/img/B9.jpg"><img src="assets/img/B9.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a>
            </div><!--end col-3-->
 
              <div class="col-md-6">
-              <img src="assets/img/B4.png" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+              <a href="assets/img/B10.jpg"><img src="assets/img/B10.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a>
              </div><!--end col-3-->
              </div>
 
@@ -137,25 +137,82 @@
            <!--gambar kanan kecil-->
              <div class="row">
               <div class="col-md-6">
-              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+              <a href="assets/img/B11.jpg"><img src="assets/img/B11.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a>
            </div><!--end col-3-->
 
              <div class="col-md-6">
-              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
+              <a href="assets/img/B12.png"><img src="assets/img/B12.png" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img></a>
              </div><!--end col-3-->
              </div>
           </div><!--end col-6-->
+
+          <br><br><br>
+      <h2>Santri Pesad</h2>
+   <div class="row">
+      <div class="col-12">
+      Pondok Pesantren Ummul Quroo juga memiliki Madin Ummul Quroo, dimana menyelenggarakan program PESAD (Pesantren Sabtu Ahad) bukan muqim, dan sasaran calon santri pesad adalah mulai dari tingkat SD hingga Mahasiswa. Kelasnya dibagi menjadi tiga tingkatan kelas, yaitu kelas awwal (pertama), kelas wusthoo (kedua), dan kelas uulaa (akhir).
+
+
+
+      </div>
+
+       <div class="row">
+        <!--kolom gambar besar kiri-->
+         <div class="col-md-6">
+          <a href="assets/img/B4.png"><img src="assets/img/B4.png" class="img-fluid"></a>
+         </div>
+
+
+
+
+
+         <!--kolom gambar kanan-->
+          <div class="col-6">
+             <div class="row">
+                             <div class="col-md-6">
+                                    <img src="assets/img/B13.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300">
+                             </div>
+
+                              <div class="col-md-6">
+                                   <img src="assets/img/B14.jpg" class="img-fluid">
+                               </div>
+
+              </div>
+<br>
+             <div class="row">
+            
+                             <div class="col-md-6">
+                                    <img src="assets/img/B15.jpg" class="img-fluid">
+                             </div>
+
+                              <div class="col-md-6">
+                                   <img src="assets/img/B16.jpg" class="img-fluid">
+                               </div>
+
+        
+             </div>       
+
+
+
+            </div>
+         
            
+            <!--   <img src="assets/img/B3.jpg" class="img-fluid"> -->
+         </div><!--end col6-->
 
-           <!--  <div class="col-md-3">
-              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
-             </div> -->
-             <!--end col-3-->
 
-            <!-- <div class="col-md-3">
-              <img src="assets/img/B3.jpg" class="img-fluid" style="text-align: justify;" width="500" height="300" alt=""></img>
-             </div> -->
-             <!--end col-3-->
+
+
+
+
+       </div><!--end row-->
+
+
+
+
+
+
+
 
 
 
