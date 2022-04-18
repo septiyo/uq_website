@@ -201,6 +201,58 @@
        </div><!--end row-->
      </div><!--container-->
 
+   <div class="container-md">
+  <h2>Kajian Pekanan</h2>
+      <div class="row">
+        <div class="col-12">
+ Isi KETERANGA KAJIAN PEKANAN BELUM ADA Yaa??? yg ini Fotonya bagus, diambil dari HP/Kamera yg sama, jadi Web dinamisnya bisa meenyesuaikan, untuk santri pesad dan muqim kenapa jadi ada yg besar ada yang kecil?karena foto yg ngambil kameranya beda-beda, dari hp beda, resolusi beda, ukuran beda. jadi akhirnya dinamisnya gk berfungsi
+
+        </div>
+     </div>
+
+     <div class="row">
+       <div class="col-md-6">
+        <div class="row">
+            <div class="col-md-6">
+              <img src="assets/img/B22.jpg" class="img-fluid" style="text-align: justify;">
+            </div>
+            <div class="col-md-6">
+              <img src="assets/img/B23.jpg" class="img-fluid" style="text-align: justify;">
+            </div>
+        </div>
+
+           <br>
+        <div class="row">
+          <div class="col-md-6">
+            <img src="assets/img/B24.jpg" class="img-fluid" style="text-align: justify;">
+          </div>
+           <div class="col-md-6">
+            <img src="assets/img/B25.jpg" class="img-fluid" style="text-align: justify;">
+          </div>
+        </div>
+
+       </div>
+
+
+
+
+
+
+
+      <div class="col-md-6">
+        <a href="assets/img/B5.jpg"><img src="assets/img/B5.jpg" class="img-fluid" style="text-align: justify;"></a>
+      </div>
+     </div>
+   
+      </div><!--container-->
+
+
+
+
+
+
+
+
      <div class="container-md">
   <h2>Santri Mubes</h2>
       <div class="row">
@@ -243,15 +295,8 @@
         <a href="assets/img/ero.png"><img src="assets/img/ero.png" class="img-fluid" style="text-align: justify;"></a>
       </div>
      </div>
-
-
-
-
-  
-
- 
-    
-</div><!--container-->
+   
+      </div><!--container-->
 <br>
 <br>
 
