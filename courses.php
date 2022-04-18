@@ -41,9 +41,9 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
-
-      <a href="index.html"><?php include "judul.php";?></a>
-      <!-- Uncomment below if you prefer to use an image logo -->
+<?php include "judul.php";?><a href="index.html" class="logo me-auto"></a>
+   <!--    <a href="index.html"><?php include "judul.php";?></a>
+ -->      <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
@@ -214,20 +214,20 @@
        <div class="col-md-6">
         <div class="row">
             <div class="col-md-6">
-              <img src="assets/img/B22.jpg" class="img-fluid" style="text-align: justify;">
+             <a href="assets/img/B22.jpg"><img src="assets/img/B22.jpg" class="img-fluid" style="text-align: justify;"></a>
             </div>
             <div class="col-md-6">
-              <img src="assets/img/B23.jpg" class="img-fluid" style="text-align: justify;">
+              <a href="assets/img/B23.jpg"><img src="assets/img/B23.jpg" class="img-fluid" style="text-align: justify;"></a>
             </div>
         </div>
 
            <br>
         <div class="row">
           <div class="col-md-6">
-            <img src="assets/img/B24.jpg" class="img-fluid" style="text-align: justify;">
+            <a href="assets/img/B24.jpg"><img src="assets/img/B24.jpg" class="img-fluid" style="text-align: justify;"></a>
           </div>
            <div class="col-md-6">
-            <img src="assets/img/B25.jpg" class="img-fluid" style="text-align: justify;">
+            <a href="assets/img/B25.jpg"><img src="assets/img/B25.jpg" class="img-fluid" style="text-align: justify;"></a>
           </div>
         </div>
 
@@ -253,7 +253,7 @@
 
 
 
-     <div class="container-md">
+     <div class="container">
   <h2>Santri Mubes</h2>
       <div class="row">
         <div class="col-12">
@@ -297,6 +297,8 @@
      </div>
    
       </div><!--container-->
+<br>
+<br>
 <br>
 <br>
 

@@ -22,9 +22,9 @@
           <li><a href="menu.php?IDD=home">Home</a></li>
           <li><a href="menu.php?IDD=tentang">Profil</a></li>
           <li><a href="menu.php?IDD=kajian">Pendidikan</a></li>
-          <li><a href="menu.php?IDD=berita">Berita</a></li>
+      <!--     <li><a href="menu.php?IDD=berita">Berita</a></li> -->
           <li><a href="menu.php?IDD=kontak">Kontak Kami</a></li>
-          <li><a href="menu.php?IDD=muqim"><b>Pendafataran Santri Baru</b></a></li> <br>
+         <!--  <li><a href="menu.php?IDD=muqim"><b>Pendafataran Santri Baru</b></a></li> --> <br>
      
 
 
